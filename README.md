@@ -1,3 +1,5 @@
+# Blake Miller
+This submission, while a little light on creativity, fulfills the requirements for this assignment.
 # 04-image-puzzle
 
 This is the fourth programming assignment for ILS-Z399: a sliding-puzzle game. The requirements for this assignment are as follows:
